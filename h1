@@ -1,1 +1,32 @@
 ## h1
+
+a) 
+  3.2: Määrittelee hyökkäyksen käsitteenä. Hyökkäyksellä tarkoitetaan yritystä tuhota, paljastaa, tehdä toimintakyvyttömäksi,
+  varastaa tai saada luvaton pääsy toisen omaisuuteen. 
+
+  3.31: Tietoturvapoikkeamalla tarkoitetaan yhtä tai useampaa ei toivottua tietoturvatapahtumaa, joilla on suuri riski vaarantaa
+  liiketoimintaa ja tietoturvaa.
+
+  3.56: Vaatimuksella tarkoitetaan tarvetta / odotusta, joka on ilmaistu selkeästi, yleisesti oletettu tai pakollinen. 
+
+  3.58: Arvioinnilla tarkoitetaan prosessia jossa määritellään onko asia tarpeeksi sopiva, riittävä ja tehokas
+  saavuttamaan määritetyt tavoitteet.
+
+  3.77: Haavoittuvuudella tarkoitetaan asian heikkoutta, jota yksi tai useampi uhka voisi hyödyntää.
+
+b)  ISO27034-1 on kansainvälinen standardi, joka käsittelee sovellusturvallisuutta. 
+    Standardi on jaettu kuuteen osaan, jotka käsittelevät eri osa-alueita ja tarjoavat ohjeita organisaatioille. 
+  1:  Yleiskatsaus ja käsitteiden määrittely
+  2:  Organisaation normatiivinen viitekehys kertoo miten standardi voidaan ottaa käyttöön organisaatiossa ja integroida se
+      olemassa oleviin prosesseihin. 
+  3:  Sovellusturvallisuuden hallintaprosessi käsittelee turvallisuusvaatimusten määrittelyn, riskien kartoittamisen ja normatiivisen
+      viitekehyksen luomisen ja ylläpitämisen koko elinkaaren ajaksi. 
+  4:  Sovellusturvallisuuden validointi vertaa sovelluksen todellista luottamustasoa aiemmin määriteltyyn tavoitetasoon. 
+  5:  Protokollat ja tietorakenne esittelee prosesseja ja XML-skeeman, joiden avulla organisaatiot voivat automatisoida
+      ASC (Application security control) jakamisen.
+  6:  Turvallisuusohjeet erityisille sovelluksille tarjoaa esimerkkejä räätälöidyistä sovellusturvallisuuden kontrolleista, jotka 
+      voivat olla hyödyllisiä esimerkkejä tarvitseville organisaatioille. 
+
+c) 
+
+d) Debian 12-Bookworm asennettu :)
