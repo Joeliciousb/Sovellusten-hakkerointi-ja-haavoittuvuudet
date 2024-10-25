@@ -27,6 +27,24 @@ b)  ISO27034-1 on kansainvälinen standardi, joka käsittelee sovellusturvallisu
   6:  Turvallisuusohjeet erityisille sovelluksille tarjoaa esimerkkejä räätälöidyistä sovellusturvallisuuden kontrolleista, jotka 
       voivat olla hyödyllisiä esimerkkejä tarvitseville organisaatioille. 
 
-c) 
+c)  Mikään ohjelmisto ei ole täysin tietoturvallinen – Ei ole mahdollista. Tykkäsin myös vieraan esittämästä näkemyksestä, että
+    tietoturva on riskien hallitsemista ja on tärkeää huomata missä kohtaa tietoturvaan panostaminen menettää hyödyn. 
+
+    Hallinnollinen tietoturva on teknisen tietoturvan onnistumisen edellytys – Teknisellä tietoturvalla ei ole merkitystä, jos
+    hallinnollinen tietoturva on olematon. On tärkeä löytää yhteinen kieli. 
+
+    Automaatiotestaus on ohjelmiston tietoturvan kannalta erittäin tärkeä – Automaatiotestaus edistää ohjelmiston tietoturvaa,
+    mutta on tärkeää olla hyvin tietoinen testien sisällöstä ja siitä, mitä ne oikeasti kattavat.
+
+    Ohjelmistoa suunniteltaessa voidaan tehdä paljonkin auttamaan käyttäjää toimimaan tietoturvallisesti... – Mielestäni
+    tietoturvaratkaisut voidaan tehdä fiksusti, ilman että ne vaikuttaisivat merkittävästi käyttäjäkokemukseen. 
+
+    Ohjelmiston tietoturvallisuuden suunnitteluun vaikuttaa ohjelmiston käsittelevien tietojen arkaluonteisuus – Mielestäni 
+    väittämä on osittain totta, sillä jos ohjelmisto käsittelee esimerkiksi henkilötunnuksia tai potilastietoja,
+    tietoturvan tulee olla vahvempi kuin yksinkertaisessa verkkokaupassa. 
+
+    Ohjelmistokehittäjät näkevät omat ohjelmistonsa aina riskialttiimpana kuin muiden kehittämät ohjelmistot – Olen samaa
+    mieltä, koska kehittäjällä on parempi käsitys ohjelmiston toiminnasta, joten riskien hahmottaminen on helpompaa.
+    Tieto lisää tuskaa >:). 
 
 d) Debian 12-Bookworm asennettu :)
