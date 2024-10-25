@@ -1,18 +1,18 @@
 ## h1
 
 a) 
-  3.2: Määrittelee hyökkäyksen käsitteenä. Hyökkäyksellä tarkoitetaan yritystä tuhota, paljastaa, tehdä toimintakyvyttömäksi,
+  3.2:  Hyökkäys: Hyökkäyksellä tarkoitetaan yritystä tuhota, paljastaa, tehdä toimintakyvyttömäksi,
   varastaa tai saada luvaton pääsy toisen omaisuuteen. 
 
-  3.31: Tietoturvapoikkeamalla tarkoitetaan yhtä tai useampaa ei toivottua tietoturvatapahtumaa, joilla on suuri riski vaarantaa
-  liiketoimintaa ja tietoturvaa.
+  3.31: Tietoturvapoikkeama: Tietoturvapoikkeamalla tarkoitetaan yhtä tai useampaa ei toivottua tietoturvatapahtumaa,
+  joilla on suuri riski vaarantaa liiketoimintaa ja tietoturvaa.
 
-  3.56: Vaatimuksella tarkoitetaan tarvetta / odotusta, joka on ilmaistu selkeästi, yleisesti oletettu tai pakollinen. 
+  3.56: Vaatimus: Vaatimuksella tarkoitetaan tarvetta / odotusta, joka on ilmaistu selkeästi, yleisesti oletettu tai pakollinen. 
 
-  3.58: Arvioinnilla tarkoitetaan prosessia jossa määritellään onko asia tarpeeksi sopiva, riittävä ja tehokas
+  3.58: Arviointi: Arvioinnilla tarkoitetaan prosessia jossa määritellään onko asia tarpeeksi sopiva, riittävä ja tehokas
   saavuttamaan määritetyt tavoitteet.
 
-  3.77: Haavoittuvuudella tarkoitetaan asian heikkoutta, jota yksi tai useampi uhka voisi hyödyntää.
+  3.77: Haavoittuvuus: Haavoittuvuudella tarkoitetaan asian heikkoutta, jota yksi tai useampi uhka voisi hyödyntää.
 
 b)  ISO27034-1 on kansainvälinen standardi, joka käsittelee sovellusturvallisuutta. 
     Standardi on jaettu kuuteen osaan, jotka käsittelevät eri osa-alueita ja tarjoavat ohjeita organisaatioille. 
@@ -31,7 +31,7 @@ c)  Mikään ohjelmisto ei ole täysin tietoturvallinen – Ei ole mahdollista. 
     tietoturva on riskien hallitsemista ja on tärkeää huomata missä kohtaa tietoturvaan panostaminen menettää hyödyn. 
 
     Hallinnollinen tietoturva on teknisen tietoturvan onnistumisen edellytys – Teknisellä tietoturvalla ei ole merkitystä, jos
-    hallinnollinen tietoturva on olematon. On tärkeä löytää yhteinen kieli. 
+    hallinnollinen tietoturva on olematon. Hallinnollisen tietoturvan kannalta on tärkeää löytää yhteinen kieli. 
 
     Automaatiotestaus on ohjelmiston tietoturvan kannalta erittäin tärkeä – Automaatiotestaus edistää ohjelmiston tietoturvaa,
     mutta on tärkeää olla hyvin tietoinen testien sisällöstä ja siitä, mitä ne oikeasti kattavat.
@@ -41,10 +41,9 @@ c)  Mikään ohjelmisto ei ole täysin tietoturvallinen – Ei ole mahdollista. 
 
     Ohjelmiston tietoturvallisuuden suunnitteluun vaikuttaa ohjelmiston käsittelevien tietojen arkaluonteisuus – Mielestäni 
     väittämä on osittain totta, sillä jos ohjelmisto käsittelee esimerkiksi henkilötunnuksia tai potilastietoja,
-    tietoturvan tulee olla vahvempi kuin yksinkertaisessa verkkokaupassa. 
+    tietoturvan tulee olla vahvempi kuin yksinkertaisessa chattisivustolla. 
 
     Ohjelmistokehittäjät näkevät omat ohjelmistonsa aina riskialttiimpana kuin muiden kehittämät ohjelmistot – Olen samaa
     mieltä, koska kehittäjällä on parempi käsitys ohjelmiston toiminnasta, joten riskien hahmottaminen on helpompaa.
-    Tieto lisää tuskaa >:). 
 
 d) Debian 12-Bookworm asennettu :)
